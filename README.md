@@ -2,8 +2,6 @@
 
 A modern, full-stack task management application built with React and Node.js. Features a beautiful, responsive UI and a robust REST API.
 
-![Task Manager Screenshot](https://github.com/yourusername/task-manager/raw/main/screenshots/demo.png)
-
 ## ✨ Features
 
 ### Frontend
